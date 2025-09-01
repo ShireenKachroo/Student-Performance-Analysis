@@ -10,7 +10,7 @@ The dataset contains information about students, including:
 - Study-related attributes (study time, failures, absences)
 - Grades and performance metrics (G1, G2, G3)
 
-Dataset source: [UCI Machine Learning Repository - Student Performance](https://archive.ics.uci.edu/dataset/320/student+performance)
+Dataset source: [Student Performance](https://raw.githubusercontent.com/arunk13/MSDA-Assignments/master/IS607Fall2015/Assignment3/student-mat.csv)
 
 ---
 
